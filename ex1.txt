@@ -1,0 +1,14 @@
+SQL> ngftyy
+SP2-0042: unknown command "ngftyy" - rest of line ignored.
+SQL> commit;
+
+Commit complete.
+
+SQL> spool off;
+SQL> ljik,ylo.il
+SP2-0734: unknown command beginning "ljik,ylo.i..." - rest of line ignored.
+SQL> commit;
+
+Commit complete.
+
+SQL> spool off;
